@@ -1,5 +1,5 @@
 function [best_universe, fObj, Eig_Max, Rts] = MVO_AliK
-%% Ali Karimzadeh Esfahani  300311898
+%% Ali Karimzadeh Esfahani
 %% Step 1: Initialization
 max_MV_time = 100;
 best_ir = Inf(max_MV_time+1, 1);
